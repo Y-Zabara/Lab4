@@ -1,0 +1,6 @@
+# ninja log v5
+0	301	1702480210817159655	CMakeFiles/mylibrary.dir/foo.cpp.o	d223fcfee3d310c3
+1	324	1702480210841157077	CMakeFiles/myexecutable.dir/hello.cpp.o	3ece83f6a338c376
+303	325	1702480210841157077	libmylibrary.a	79b4ab0c6ac9d951
+325	442	1702480210957144618	myexecutable	60c16ab4ec2be440
+0	5	0	clean	a31eedcededa8236

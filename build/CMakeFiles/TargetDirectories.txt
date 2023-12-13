@@ -1,0 +1,4 @@
+/home/y_zabara_io14/lab4/build/CMakeFiles/mylibrary.dir
+/home/y_zabara_io14/lab4/build/CMakeFiles/myexecutable.dir
+/home/y_zabara_io14/lab4/build/CMakeFiles/edit_cache.dir
+/home/y_zabara_io14/lab4/build/CMakeFiles/rebuild_cache.dir
